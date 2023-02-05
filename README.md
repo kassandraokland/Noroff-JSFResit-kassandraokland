@@ -1,6 +1,6 @@
 # Noroff-JSFResit-kassandraokland
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](https://github.com/kassandraokland/portfolio-2/blob/main/src/components/images/pokemons.png)
 
 This project uses the [Pokemon TCG API](https://dev.pokemontcg.io/) to showcase Pokemon cards and info about various pokemons.
 
